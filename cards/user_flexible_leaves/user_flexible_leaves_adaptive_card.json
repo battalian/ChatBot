@@ -1,0 +1,53 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+    {
+        "type": "Container",
+        "items": [
+            {
+                "type": "TextBlock",
+                "horizontalAlignment": "Center",
+                "size": "Medium",
+                "text": "**Flexible Leaves**"
+            }
+        ]
+    },
+    {
+        "type": "ColumnSet",
+        "separator": true,
+        "columns": [
+            {
+                "type": "Column",
+                "horizontalAlignment": "Center",
+                "items": [
+                    {
+                        "type": "TextBlock",
+                        "horizontalAlignment": "Center",
+                        "spacing": "None",
+                        "size": "Medium",
+                        "color": "Accent",
+                        "text": "Date"
+                    }
+                ],
+                "width": 1
+            },
+            {
+                "type": "Column",
+                "items": [
+                    {
+                        "type": "TextBlock",
+                        "horizontalAlignment": "Center",
+                        "spacing": "None",
+                        "size": "Medium",
+                        "color": "Accent",
+                        "text": "Ocassion"
+                    }
+                ],
+                "width": 1
+            }
+        ]
+    }
+],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.0"
+}

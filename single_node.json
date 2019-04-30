@@ -1,0 +1,42 @@
+{
+  "type": "ColumnSet",
+  "columns": [
+    {
+      "type": "Column",
+      "items": [
+        {
+          "type": "TextBlock",
+          "horizontalAlignment": "Center",
+          "text": "01-01-67"
+        }
+      ],
+      "width": "stretch"
+    },
+    {
+      "type": "Column",
+      "height": "stretch",
+      "items": [
+        {
+          "type": "TextBlock",
+          "horizontalAlignment": "Center",
+          "height": "stretch",
+          "text": "Holi holi holi holi holi",
+          "maxLines": 2
+        }
+      ],
+      "width": "stretch"
+    },
+    {
+      "type": "Column",
+      "horizontalAlignment": "Center",
+      "items": [
+        {
+          "type": "TextBlock",
+          "horizontalAlignment": "Center",
+          "text": "Wednesday"
+        }
+      ],
+      "width": "stretch"
+    }
+  ]
+}

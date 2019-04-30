@@ -1,0 +1,126 @@
+{
+	"flexible": [
+		{
+			"date": "2019-01-14",
+			"reason": "Makar Sankranthi",
+			"day": "Monday"
+		},
+		{
+			"date": "2019-01-15",
+			"reason": "Republic Day",
+			"day": "Tuesday"
+		},
+		{
+			"date": "2019-03-04",
+			"reason": "Maha Shivaratri",
+			"day": "Monday"
+		},
+		{
+			"date": "2019-04-19",
+			"reason": "Good Friday",
+			"day": "Friday"
+		},
+		{
+			"date": "2019-05-24",
+			"reason": "Nagarro's Day Of Reason",
+			"day": "Friday"
+		},
+		{
+			"date": "2019-06-05",
+			"reason": "Idul Fitr",
+			"day": "Wednesday"
+		},
+		{
+			"date": "2019-08-12",
+			"reason": "Idul Juha",
+			"day": "Monday"
+		},
+		{
+			"date": "2019-09-02",
+			"reason": "Ganesh Chathurthi",
+			"day": "Monday"
+		},
+		{
+			"date": "2019-09-11",
+			"reason": "Onam",
+			"day": "Wednesday"
+		},
+		{
+			"date": "2019-10-29",
+			"reason": "Bhai Dooj",
+			"day": "Tuesday"
+		},
+		{
+			"date": "2019-11-12",
+			"reason": "Guru Nanak Jayanthi",
+			"day": "Tuesday"
+		}
+	],
+	"public-holidays": [
+		{
+			"date": "2019-01-01",
+			"reason": "New Year's Day",
+			"day": "Tuesday"
+		},
+		{
+			"date": "2019-01-26",
+			"reason": "Republic Day",
+			"day": "Saturday"
+		},
+		{
+			"date": "2019-02-10",
+			"reason": "Vasant Panchami",
+			"day": "Sunday"
+		},
+		{
+			"date": "2019-03-21",
+			"reason": "Holi",
+			"day": "Thursday"
+		},
+		{
+			"date": "2019-04-13",
+			"reason": "Ram Navami",
+			"day": "Saturday"
+		},
+		{
+			"date": "2019-04-14",
+			"reason": "Vaisakhi",
+			"day": "Sunday"
+		},
+		{
+			"date": "2019-08-15",
+			"reason": "Independence Day",
+			"day": "Thursday"
+		},
+		{
+			"date": "2019-08-24",
+			"reason": "Janmashtami",
+			"day": "Saturday"
+		},
+		{
+			"date": "2019-10-02",
+			"reason": "Gandhi Jayanthi",
+			"day": "Wednesday"
+		},
+		{
+			"date": "2019-10-08",
+			"reason": "Dussehra",
+			"day": "Tuesday"
+		},
+		{
+			"date": "2019-10-27",
+			"reason": "Diwali",
+			"day": "Sunday"
+		},
+		{
+			"date": "2019-10-28",
+			"reason": "Diwali",
+			"day": "Monday"
+		},
+		{
+			"date": "2019-12-25",
+			"reason": "Christmas",
+			"day": "Wednesday"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "calendo",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+		{
+			"type": "luis",
+			"name": "UserInfoLuisBot",
+			"appId": "4ded1307-b230-40e1-8c32-d4ae57a4d48d",
+			"version": "0.1",
+			"authoringKey": "225ef372f63042fab599ee1043ab7ea9",
+			"subscriptionKey": "225ef372f63042fab599ee1043ab7ea9",
+			"region": "westus",
+			"id": "158"
+		}
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
+
+
